@@ -6,7 +6,7 @@ var app = express();
 var db;
 
 var config = {
-	"USER" : "";
+	"USER" : "",
 	"PASS" : "",
 	"HOST" : "ec2-54-86-98-101.compute-1.amazonaws.com",
 	"PORT" : "27017",
